@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Program Files (x86)\Jenkins\jobs\Unit Test On TPA\workspace\bin\Debug\TaxProfileAssistantTests.dll" total="76" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2015-05-18" time="11:23:06">
+  <environment nunit-version="2.5.9.10348" clr-version="2.0.50727.5485" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Program Files (x86)\Jenkins\jobs\Unit Test On TPA\workspace" machine-name="AV-PN-KISHORD" user="SYSTEM" user-domain="SANJUAN" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Program Files (x86)\Jenkins\jobs\Unit Test On TPA\workspace\bin\Debug\TaxProfileAssistantTests.dll" executed="True" result="Success" success="True" time="321.416" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="TaxProfileAssistant" executed="True" result="Success" success="True" time="13.374" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Utils" executed="True" result="Success" success="True" time="13.374" asserts="0">
+            <results>
+              <test-suite type="Namespace" name="Tests" executed="True" result="Success" success="True" time="13.358" asserts="0">
+                <results>
+                  <test-suite type="TestFixture" name="CryptoGrapherTests" executed="True" result="Success" success="True" time="13.358" asserts="0">
+                    <results>
+                      <test-case name="TaxProfileAssistant.Utils.Tests.CryptoGrapherTests.DecryptTest" executed="True" result="Success" success="True" time="13.327" asserts="1" />
+                      <test-case name="TaxProfileAssistant.Utils.Tests.CryptoGrapherTests.EncryptTest" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+      <test-suite type="Namespace" name="TaxProfileAssistantTest" executed="True" result="Success" success="True" time="308.011" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Controllers" executed="True" result="Success" success="True" time="103.379" asserts="0">
+            <results>
+              <test-suite type="Namespace" name="Tests" executed="True" result="Success" success="True" time="103.379" asserts="0">
+                <results>
+                  <test-suite type="TestFixture" name="AvaSetupReportControllerTests" executed="True" result="Success" success="True" time="22.294" asserts="0">
+                    <results>
+                      <test-case name="TaxProfileAssistantTest.Controllers.Tests.AvaSetupReportControllerTests.AvaSetupReportController_IndexMethod_ReturnsFinishSetupObjectTest" executed="True" result="Success" success="True" time="19.802" asserts="1" />
+                      <test-case name="TaxProfileAssistantTest.Controllers.Tests.AvaSetupReportControllerTests.AvaSetupReportController_IndexMethod_SetsTheRequiredFieldsToTrue" executed="True" result="Success" success="True" time="2.492" asserts="6" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="TestFixture" name="CreateCompanyControllerTests" executed="True" result="Success" success="True" time="5.399" asserts="0">
+                    <results>
+                      <test-case name="TaxProfileAssistantTest.Controllers.Tests.CreateCompanyControllerTests.CreateComapnyController_CreateNewCompanyTestToCheckIfItRedirectsToNexusSetupOnceCompanyIsCreated" executed="True" result="Success" success="True" time="1.941" asserts="2" />
+                      <test-case name="TaxProfileAssistantTest.Controllers.Tests.CreateCompanyControllerTests.CreateComapnyController_CreateNewCompanyTestToCheckIfItReturnsCreateCompanyIndexViewWhenCompanyIsNotCreated" executed="True" result="Success" success="True" time="2.186" asserts="1" />
+                      <test-case name="TaxProfileAssistantTest.Controllers.Tests.CreateCompanyControllerTests.CreateCompanyController_IndexTest_CheckIfItReturnsCompanyObject" executed="True" result="Success" success="True" time="1.272" asserts="1" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="TestFixture" name="CredentialsControllerTests" executed="True" result="Success" success="True" time="17.410" asserts="0">
+                    <results>
+                      <test-case name="TaxProfileAssistantTest.Controllers.Tests.CredentialsControllerTests.CredentialsControllerDoConnectionTest_ThrowsCorrectErrorMessage" executed="True" result="Success" success="True" time="1.122" asserts="1" />
+                      <test-case name="TaxProfileAssistantTest.Controllers.Tests.CredentialsControllerTests.CredentialsControllerIndexTest_RedirectstoNexusSetupController" executed="True" result="Success" success="True" time="5.060" asserts="2" />
+                      <test-case name="TaxProfileAssistantTest.Controllers.Tests.CredentialsControllerTests.CredentialsControllerIndexTest_ReturnsCorrectViewWhenAccountInfoObjectIsNull" executed="True" result="Success" success="True" time="0.489" asserts="1" />
+                      <test-case name="TaxProfileAssistantTest.Controllers.Tests.CredentialsControllerTests.CredentialsControllerIndexTest_ReturnsRedirectToRouteResult" executed="True" result="Success" success="True" time="5.104" asserts="2" />
+                      <test-case name="TaxProfileAssistantTest.Controllers.Tests.CredentialsControllerTests.DoConnectionTestToCheckIfItReturnsTheCreateCompanyString" executed="True" result="Success" success="True" time="2.726" asserts="1" />
+                      <test-case name="TaxProfileAssistantTest.Controllers.Tests.CredentialsControllerTests.DoConnectionTestToCheckIfItReturnsTheNexusSetupString" executed="True" result="Success" success="True" time="2.891" asserts="1" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="TestFixture" name="ExistingCompanyControllerTests" executed="True" result="Success" success="True" time="0.339" asserts="0">
+                    <results>
+                      <test-case name="TaxProfileAssistantTest.Controllers.Tests.ExistingCompanyControllerTests.ExistingCompanyController_CompanySelected_Returns_RedirectToAction" executed="True" result="Success" success="True" time="0.001" asserts="2" />
+                      <test-case name="TaxProfileAssistantTest.Controllers.Tests.ExistingCompanyControllerTests.ExistingCompanyController_IndexTest_CheckIfItReturnsCorrectView" executed="True" result="Success" success="True" time="0.337" asserts="2" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="TestFixture" name="HomepageControllerTests" executed="True" result="Success" success="True" time="49.408" asserts="0">
+                    <results>
+                      <test-case name="TaxProfileAssistantTest.Controllers.Tests.HomepageControllerTests.HomeController_IndexTestWithXMLOf10000Records" executed="True" result="Success" success="True" time="11.099" asserts="1" />
+                      <test-case name="TaxProfileAssistantTest.Controllers.Tests.HomepageControllerTests.HomeController_IndexTestWithXMLOf1000Records" executed="True" result="Success" success="True" time="8.243" asserts="1" />
+                      <test-case name="TaxProfileAssistantTest.Controllers.Tests.HomepageControllerTests.HomeController_IndexTestWithXMLOf2000Records" executed="True" result="Success" success="True" time="10.091" asserts="1" />
+                      <test-case name="TaxProfileAssistantTest.Controllers.Tests.HomepageControllerTests.HomepageController_DoConnectionMethod_ThrowsExceptionTest" executed="True" result="Success" success="True" time="0.496" asserts="0" />
+                      <test-case name="TaxProfileAssistantTest.Controllers.Tests.HomepageControllerTests.HomepageController_DoConnectionMethodTest_With_Wrong_OR_Empty_LicenseKey" executed="True" result="Success" success="True" time="0.907" asserts="1" />
+                      <test-case name="TaxProfileAssistantTest.Controllers.Tests.HomepageControllerTests.HomepageController_DoConnectionMethodTest_Without_WebserviceURL" executed="True" result="Success" success="True" time="0.398" asserts="1" />
+                      <test-case name="TaxProfileAssistantTest.Controllers.Tests.HomepageControllerTests.HomepageController_DoConnectionMethodTest_WithWrongAccountPassword" executed="True" result="Success" success="True" time="0.402" asserts="1" />
+                      <test-case name="TaxProfileAssistantTest.Controllers.Tests.HomepageControllerTests.HomepageController_DoConnectionMethodTestWithAllParameters" executed="True" result="Success" success="True" time="5.253" asserts="4" />
+                      <test-case name="TaxProfileAssistantTest.Controllers.Tests.HomepageControllerTests.HomepageController_DoConnectionMethodTestWithInvalidAccountInfoParameter" executed="True" result="Success" success="True" time="0.998" asserts="1" />
+                      <test-case name="TaxProfileAssistantTest.Controllers.Tests.HomepageControllerTests.HomepageController_DoConnectionMethodTestWithInvalidUsernameParameter" executed="True" result="Success" success="True" time="0.564" asserts="1" />
+                      <test-case name="TaxProfileAssistantTest.Controllers.Tests.HomepageControllerTests.HomepageController_Index_Return_Empty_View_Test" executed="True" result="Success" success="True" time="0.031" asserts="1" />
+                      <test-case name="TaxProfileAssistantTest.Controllers.Tests.HomepageControllerTests.HomepageController_Index_Test_With_ValidID" executed="True" result="Success" success="True" time="5.698" asserts="11" />
+                      <test-case name="TaxProfileAssistantTest.Controllers.Tests.HomepageControllerTests.HomepageController_IndexTest_CheckIfCorrectModelTypeIsReturned" executed="True" result="Success" success="True" time="5.007" asserts="1" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="TestFixture" name="NexusSetupControllerTests" executed="True" result="Success" success="True" time="5.217" asserts="0">
+                    <results>
+                      <test-case name="TaxProfileAssistantTest.Controllers.Tests.NexusSetupControllerTests.NexusSetupController_GetNexusList_ReturnsListOfNexusMasterTest" executed="True" result="Success" success="True" time="2.908" asserts="1" />
+                      <test-case name="TaxProfileAssistantTest.Controllers.Tests.NexusSetupControllerTests.NexusSetupController_IndexMethod_ReturnsNexusListThroughViewTest" executed="True" result="Success" success="True" time="2.309" asserts="2" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="TestFixture" name="TaxProfileAssistantControllerTests" executed="True" result="Success" success="True" time="2.933" asserts="0">
+                    <results>
+                      <test-case name="TaxProfileAssistantTest.Controllers.Tests.TaxProfileAssistantControllerTests.PostMethod_ReturnURL_Test" executed="True" result="Success" success="True" time="1.716" asserts="1" />
+                      <test-case name="TaxProfileAssistantTest.Controllers.Tests.TaxProfileAssistantControllerTests.TaxProfileAssistantController_Post_XML_Load_TestFor10000Records" executed="True" result="Success" success="True" time="1.217" asserts="1" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="TestFixture" name="ThreadProcessControllerTests" executed="True" result="Success" success="True" time="0.374" asserts="0">
+                    <results>
+                      <test-case name="TaxProfileAssistantTest.Controllers.Tests.ThreadProcessControllerTests.GetThreadProcessStatus_ToCheckIfItSetsTheThreadStatusToFalseWithInvalidThreadNameParameter" executed="True" result="Success" success="True" time="0.156" asserts="1" />
+                      <test-case name="TaxProfileAssistantTest.Controllers.Tests.ThreadProcessControllerTests.ThreadProcessControllerGetThreadProcessStatus_ToCheckIfItSetsTheThreadStatusToFalse" executed="True" result="Success" success="True" time="0.109" asserts="1" />
+                      <test-case name="TaxProfileAssistantTest.Controllers.Tests.ThreadProcessControllerTests.ThreadProcessControllerGetThreadProcessStatus_ToCheckIfItSetsTheThreadStatusToTrue" executed="True" result="Success" success="True" time="0.109" asserts="1" />
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+          <test-suite type="Namespace" name="Utils" executed="True" result="Success" success="True" time="204.632" asserts="0">
+            <results>
+              <test-suite type="Namespace" name="Tests" executed="True" result="Success" success="True" time="204.632" asserts="0">
+                <results>
+                  <test-suite type="TestFixture" name="AccountServiceHelperTests" executed="True" result="Success" success="True" time="178.312" asserts="0">
+                    <results>
+                      <test-case name="TaxProfileAssistantTest.Utils.Tests.AccountServiceHelperTests.CreateCompanyTestToCheckIfCompanyID_And_TransactionIDIsReturned" executed="True" result="Success" success="True" time="1.657" asserts="2" />
+                      <test-case name="TaxProfileAssistantTest.Utils.Tests.AccountServiceHelperTests.CreateCompanyTestToCheckIfCorrectResultTypeIsReturned" executed="True" result="Success" success="True" time="1.663" asserts="1" />
+                      <test-case name="TaxProfileAssistantTest.Utils.Tests.AccountServiceHelperTests.CreateCompanyTestToCheckIfResultCodeIsReturned" executed="True" result="Success" success="True" time="1.666" asserts="1" />
+                      <test-case name="TaxProfileAssistantTest.Utils.Tests.AccountServiceHelperTests.CreateNexusTestToCheckIfNullResultsetIsNotReturned" executed="True" result="Success" success="True" time="86.877" asserts="1" />
+                      <test-case name="TaxProfileAssistantTest.Utils.Tests.AccountServiceHelperTests.CreateNexusTestToCheckIfResultCodeIsSuccessForUniqueNexus" executed="True" result="Success" success="True" time="86.433" asserts="1" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="TestFixture" name="AccountServiceTests" executed="True" result="Success" success="True" time="22.293" asserts="0">
+                    <results>
+                      <test-case name="TaxProfileAssistantTest.Utils.Tests.AccountServiceTests.Utils_AccountServiceCreateCompanyTest_CheckIfCompanySaveResultIsReturned" executed="True" result="Success" success="True" time="1.747" asserts="1" />
+                      <test-case name="TaxProfileAssistantTest.Utils.Tests.AccountServiceTests.Utils_AccountServiceFetchCompanyTest_ChecksIfItReturnsCompanyFetchResult" executed="True" result="Success" success="True" time="1.654" asserts="1" />
+                      <test-case name="TaxProfileAssistantTest.Utils.Tests.AccountServiceTests.Utils_AccountServiceFetchCompanyTest_ChecksIfItReturnsCorrectErrorMessageWithInvalidAccounNumber" executed="True" result="Success" success="True" time="1.827" asserts="2" />
+                      <test-case name="TaxProfileAssistantTest.Utils.Tests.AccountServiceTests.Utils_AccountServiceFetchNexusTest_ChecksIfItReturnsCorrectErrorWithInvalidCompanyId" executed="True" result="Success" success="True" time="1.794" asserts="1" />
+                      <test-case name="TaxProfileAssistantTest.Utils.Tests.AccountServiceTests.Utils_AccountServiceFetchNexusTest_ChecksIfItReturnsFetchNexusResult" executed="True" result="Success" success="True" time="4.676" asserts="1" />
+                      <test-case name="TaxProfileAssistantTest.Utils.Tests.AccountServiceTests.Utils_AccountServiceTest_CheckIfServiceConnectionFailsWithNoWebService" executed="True" result="Success" success="True" time="0.188" asserts="1" />
+                      <test-case name="TaxProfileAssistantTest.Utils.Tests.AccountServiceTests.Utils_AccountServiceTest_CheckIfServiceConnectionFailsWithWrongAccountNumber" executed="True" result="Success" success="True" time="1.252" asserts="1" />
+                      <test-case name="TaxProfileAssistantTest.Utils.Tests.AccountServiceTests.Utils_AccountServiceTest_CheckIfServiceConnectionFailsWithWrongLicenseKey" executed="True" result="Success" success="True" time="1.326" asserts="1" />
+                      <test-case name="TaxProfileAssistantTest.Utils.Tests.AccountServiceTests.Utils_AccountServiceTest_CheckIfServiceConnectionFailsWithWrongPassword" executed="True" result="Success" success="True" time="0.878" asserts="1" />
+                      <test-case name="TaxProfileAssistantTest.Utils.Tests.AccountServiceTests.Utils_AccountServiceTest_CheckIfServiceConnectionFailsWithWrongUserName" executed="True" result="Success" success="True" time="1.081" asserts="1" />
+                      <test-case name="TaxProfileAssistantTest.Utils.Tests.AccountServiceTests.Utils_AccountServiceTest_CheckIfServiceConnectionIsSuccessful" executed="True" result="Success" success="True" time="1.482" asserts="1" />
+                      <test-case name="TaxProfileAssistantTest.Utils.Tests.AccountServiceTests.Utils_FetchServiceTest_CheckIfNoRecordsAreReturnedWithInvalidAccountID" executed="True" result="Success" success="True" time="2.075" asserts="1" />
+                      <test-case name="TaxProfileAssistantTest.Utils.Tests.AccountServiceTests.Utils_FetchServiceTest_CheckIfServiceFetchResultObjectIsReturned" executed="True" result="Success" success="True" time="2.106" asserts="1" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="TestFixture" name="AvaTaxProfileAssistantHelperTests" executed="True" result="Success" success="True" time="4.011" asserts="0">
+                    <results>
+                      <test-case name="TaxProfileAssistantTest.Utils.Tests.AvaTaxProfileAssistantHelperTests.GetAccountInfoBySecureKeyTestToCheckIfCorrectAccountInfoDetailsAreFetched" executed="True" result="Success" success="True" time="0.562" asserts="4" />
+                      <test-case name="TaxProfileAssistantTest.Utils.Tests.AvaTaxProfileAssistantHelperTests.GetAvaERPCountryMappingTestToCheckIfItDoesNotReturnEmptyResult" executed="True" result="Success" success="True" time="0.031" asserts="1" />
+                      <test-case name="TaxProfileAssistantTest.Utils.Tests.AvaTaxProfileAssistantHelperTests.GetAvaERPCountryMappingTestToCheckIfItReturnsCorrectNumberOfMappedCountries" executed="True" result="Success" success="True" time="0.016" asserts="1" />
+                      <test-case name="TaxProfileAssistantTest.Utils.Tests.AvaTaxProfileAssistantHelperTests.GetAvaERPCountryMappingTestToCheckIfItReturnsListOfAvaERPCountryMapping" executed="True" result="Success" success="True" time="0.016" asserts="1" />
+                      <test-case name="TaxProfileAssistantTest.Utils.Tests.AvaTaxProfileAssistantHelperTests.GetAvaERPSettingMasterTestToCheckIfItReturnsAvaERPSettingMaster" executed="True" result="Success" success="True" time="0.031" asserts="1" />
+                      <test-case name="TaxProfileAssistantTest.Utils.Tests.AvaTaxProfileAssistantHelperTests.GetAvaERPSettingOtherDetailsTestToCheckReturnType" executed="True" result="Success" success="True" time="0.640" asserts="1" />
+                      <test-case name="TaxProfileAssistantTest.Utils.Tests.AvaTaxProfileAssistantHelperTests.GetCreateCompanyInfoTestToCheckIfCorrectCompanyDetailsAreReturned" executed="True" result="Success" success="True" time="0.172" asserts="2" />
+                      <test-case name="TaxProfileAssistantTest.Utils.Tests.AvaTaxProfileAssistantHelperTests.GetCustomersListTestToCheckIfItReturnsCorrectNumberOfCustomers" executed="True" result="Success" success="True" time="1.045" asserts="1" />
+                      <test-case name="TaxProfileAssistantTest.Utils.Tests.AvaTaxProfileAssistantHelperTests.GetCustomersListTestToCheckIfItReturnsListOfCustomers" executed="True" result="Success" success="True" time="0.031" asserts="1" />
+                      <test-case name="TaxProfileAssistantTest.Utils.Tests.AvaTaxProfileAssistantHelperTests.GetLinkListTestToCheckIfItReturnsListOfHelpLinks" executed="True" result="Success" success="True" time="0.016" asserts="2" />
+                      <test-case name="TaxProfileAssistantTest.Utils.Tests.AvaTaxProfileAssistantHelperTests.GetNexusesTestToCheckIfItReturnsNexusMaster" executed="True" result="Success" success="True" time="0.250" asserts="1" />
+                      <test-case name="TaxProfileAssistantTest.Utils.Tests.AvaTaxProfileAssistantHelperTests.GetStateCodeTestToCheckIfItReturnsCorrectStateCode" executed="True" result="Success" success="True" time="0.062" asserts="1" />
+                      <test-case name="TaxProfileAssistantTest.Utils.Tests.AvaTaxProfileAssistantHelperTests.GetValidationErrorMessagesTestForInvalidModel" executed="True" result="Success" success="True" time="0.047" asserts="1" />
+                      <test-case name="TaxProfileAssistantTest.Utils.Tests.AvaTaxProfileAssistantHelperTests.InsertAccountInfoTestToCheckInsertionOfRecordInDatabase" executed="True" result="Success" success="True" time="0.016" asserts="7" />
+                      <test-case name="TaxProfileAssistantTest.Utils.Tests.AvaTaxProfileAssistantHelperTests.InsertAccountInfoTestToCheckReturnType" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                      <test-case name="TaxProfileAssistantTest.Utils.Tests.AvaTaxProfileAssistantHelperTests.InsertAvaERPSettingTestToCheckCorrectAvaERPSettingsIDReturned" executed="True" result="Success" success="True" time="0.016" asserts="1" />
+                      <test-case name="TaxProfileAssistantTest.Utils.Tests.AvaTaxProfileAssistantHelperTests.InsertAvaERPSettingTestToCheckInsertionOfAvaERPSettingsInDatabase" executed="True" result="Success" success="True" time="0.016" asserts="1" />
+                      <test-case name="TaxProfileAssistantTest.Utils.Tests.AvaTaxProfileAssistantHelperTests.InsertCreateCompanyInfoTestToCheckCompanyInfoInsertionInDatabase" executed="True" result="Success" success="True" time="0.062" asserts="1" />
+                      <test-case name="TaxProfileAssistantTest.Utils.Tests.AvaTaxProfileAssistantHelperTests.InsertCustomersTestToCheckInsertionOfCustomerRecordsInDatabase" executed="True" result="Success" success="True" time="0.564" asserts="11" />
+                      <test-case name="TaxProfileAssistantTest.Utils.Tests.AvaTaxProfileAssistantHelperTests.InsertHelpLinkTestToCheckInsertionOfHelpLinksInDatabase" executed="True" result="Success" success="True" time="0.031" asserts="8" />
+                      <test-case name="TaxProfileAssistantTest.Utils.Tests.AvaTaxProfileAssistantHelperTests.ParseCodeTestToCheckIfCorrectCodeIsReturnedForStateOrCountry" executed="True" result="Success" success="True" time="0.016" asserts="2" />
+                      <test-case name="TaxProfileAssistantTest.Utils.Tests.AvaTaxProfileAssistantHelperTests.ParseStateCountryTestToCheckIfItReturnsCorrectStateAndComapnyCode" executed="True" result="Success" success="True" time="0.062" asserts="2" />
+                      <test-case name="TaxProfileAssistantTest.Utils.Tests.AvaTaxProfileAssistantHelperTests.TrimCodeTestToCheckIfFirstTwoLettersOfStringAreReturned" executed="True" result="Success" success="True" time="0.016" asserts="2" />
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

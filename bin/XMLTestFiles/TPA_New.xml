@@ -1,0 +1,277 @@
+<TPA>
+ <AccountCredentials>
+    <AccountNumber>1100136002</AccountNumber>
+    <LicenseKey>891CA20014A91799</LicenseKey>
+    <UserName>kishor.dudhe@avalara.com</UserName>
+    <Password>Admin007</Password>
+    <WebService>https://development.avalara.net</WebService>
+    <CompanyCode>DEFAULT</CompanyCode>
+    <ERPName>Sage 500 ERP 2014</ERPName>
+  </AccountCredentials>
+  
+  <Company>
+    <CompanyName>Systems of America</CompanyName>
+    <TIN>95-3657471</TIN>
+    <BIN />
+    <Address>
+      <Line1>900 winslow way e</Line1>
+      <Line2 />
+      <Line3 />
+      <City>Bainbridge Island</City>
+      <StateProvince>WA</StateProvince>
+      <Country>USA</Country>
+      <ZipPostalCode>98110</ZipPostalCode>
+    </Address>
+    <PrimaryContact>
+      <FirstName>abbott</FirstName>
+      <LastName>abbott</LastName>
+      <Email>abc@abc.com</Email>
+      <PhoneNumber>9999999999</PhoneNumber>
+      <Title />
+      <MobileNumber />
+      <Fax>9999999999</Fax>
+    </PrimaryContact>
+  </Company>
+  
+  <Nexus>
+    <CompanyLocations>
+      <CompanyLocation>
+        <Country>USA</Country>
+        <States>WA</States>
+      </CompanyLocation>
+    </CompanyLocations>
+	
+    <WareHouseLocations>
+      <WareHouseLocation>
+        <Country>USA</Country>
+        <States>CA</States>
+      </WareHouseLocation>
+      <WareHouseLocation>
+        <Country>USA</Country>
+        <States>AZ</States>
+      </WareHouseLocation>
+      <WareHouseLocation>
+        <Country>USA</Country>
+        <States>CA</States>
+      </WareHouseLocation>
+      <WareHouseLocation>
+        <Country>USA</Country>
+        <States>CA</States>
+      </WareHouseLocation>
+      <WareHouseLocation>
+        <Country>USA</Country>
+        <States>WA</States>
+      </WareHouseLocation>
+      <WareHouseLocation>
+        <Country>USA</Country>
+        <States>CA</States>
+      </WareHouseLocation>
+      <WareHouseLocation>
+        <Country>USA</Country>
+        <States>AL</States>
+      </WareHouseLocation>
+      <WareHouseLocation>
+        <Country>USA</Country>
+        <States>CA</States>
+      </WareHouseLocation>
+      <WareHouseLocation>
+        <Country>USA</Country>
+        <States>TX</States>
+      </WareHouseLocation>
+      <WareHouseLocation>
+        <Country>USA</Country>
+        <States>WA</States>
+      </WareHouseLocation>
+      <WareHouseLocation>
+        <Country>USA</Country>
+        <States>WA</States>
+      </WareHouseLocation>
+      
+    </WareHouseLocations>
+    
+	<PreviousCustomerLocations>
+      <PreviousCustomerLocation>
+        <Country>USA</Country>
+        <States>IN</States>
+        <InvoicesCharged>100</InvoicesCharged>
+        <TotalInvoices>129</TotalInvoices>
+      </PreviousCustomerLocation>
+      
+      <PreviousCustomerLocation>
+        <Country>USA</Country>
+        <States>WA</States>
+        <InvoicesCharged>97</InvoicesCharged>
+        <TotalInvoices>506</TotalInvoices>
+      </PreviousCustomerLocation>
+      <PreviousCustomerLocation>
+        <Country>USA</Country>
+        <States>TN</States>
+        <InvoicesCharged>100</InvoicesCharged>
+        <TotalInvoices>128</TotalInvoices>
+      </PreviousCustomerLocation>
+    </PreviousCustomerLocations>
+  </Nexus>
+  
+  
+  <AvaERPSettings>
+    <TaxSchedule>
+      <IsTaxScheduleMapped>true</IsTaxScheduleMapped>
+      <TaxScheduleID>AVATAX</TaxScheduleID>
+    </TaxSchedule>
+	
+   
+    <MapItemCodes>
+      <MappedItemsCount>505</MappedItemsCount>
+      <MappedItems>
+        <EntityNameCode>
+          <Name>1.44 Floppy</Name>
+          <Code>NT</Code>
+        </EntityNameCode>
+        <EntityNameCode>
+          <Name>2way Radio</Name>
+          <Code>NT</Code>
+        </EntityNameCode>
+        <EntityNameCode>
+          <Name>Autoswitch</Name>
+          <Code>A</Code>
+        </EntityNameCode>
+        <EntityNameCode>
+          <Name>Cable100</Name>
+          <Code>NT</Code>
+        </EntityNameCode>
+		<EntityNameCode>
+          <Name>1.44 Floppy</Name>
+          <Code>NT</Code>
+        </EntityNameCode>
+		
+      </MappedItems>
+	  
+      <NonTaxableItems>
+        <Total>524</Total>
+        <NonTaxable>553</NonTaxable>
+        <Items>
+          <EntityNameCode>
+            <Name>Ballpoint Pens, black</Name>
+            <Code>Black Pens</Code>
+          </EntityNameCode>
+          <EntityNameCode>
+            <Name>Project Accounting Billing</Name>
+            <Code>Project Billing</Code>
+          </EntityNameCode>
+          <EntityNameCode>
+            <Name>Bitronic Autoswitch Kit, 2 port revers</Name>
+            <Code>Autoswitch</Code>
+          </EntityNameCode>
+          <EntityNameCode>
+            <Name>Viper 1000</Name>
+            <Code>v1000</Code>
+          </EntityNameCode>
+          <EntityNameCode>
+            <Name>Injection Molded Black Handle</Name>
+            <Code>MBH1000</Code>
+          </EntityNameCode>
+          <EntityNameCode>
+            <Name>Injection Molded Red Handle</Name>
+            <Code>MRH1000</Code>
+          </EntityNameCode>
+          <EntityNameCode>
+            <Name>Injection Molded Green Handle</Name>
+            <Code>MGH1000</Code>
+          </EntityNameCode>
+          <EntityNameCode>
+            <Name>L-315 Adiprene</Name>
+            <Code>M-UR03</Code>
+          </EntityNameCode>
+          <EntityNameCode>
+            <Name>Urethane Compound</Name>
+            <Code>MPE65D</Code>
+          </EntityNameCode>
+          <EntityNameCode>
+            <Name>L-83 Adiprene</Name>
+            <Code>M-UR02</Code>
+          </EntityNameCode>
+          <EntityNameCode>
+            <Name>Ethacure ED-300</Name>
+            <Code>M-UR01</Code>
+          </EntityNameCode>
+
+
+        </Items>
+      </NonTaxableItems>
+    </MapItemCodes>
+    
+	
+	<AddressValidation>
+      <IsAddressValidationEnabled>true</IsAddressValidationEnabled>
+      <CountryNamesMapped>true</CountryNamesMapped>
+      <MappedCountries>
+        <MappedCountry>
+          <ERPCountry>Canada</ERPCountry>
+          <ERPCountryCode>CAN</ERPCountryCode>
+          <AvaCountry>CAN</AvaCountry>
+        </MappedCountry>
+        <MappedCountry>
+          <ERPCountry>USA</ERPCountry>
+          <ERPCountryCode>USA</ERPCountryCode>
+          <AvaCountry>USA</AvaCountry>
+        </MappedCountry>
+      </MappedCountries>
+    </AddressValidation>
+    
+	
+	<Customers>
+	
+	<AvaCustomer><Name>1TEST</Name><TaxSchedule>AVATAX</TaxSchedule><ExemptCode>1</ExemptCode></AvaCustomer>
+	<AvaCustomer><Name>1TEST</Name><TaxSchedule>A1-STATE</TaxSchedule><ExemptCode>1</ExemptCode></AvaCustomer>
+<AvaCustomer><Name>2TEST</Name><TaxSchedule>A2-STATE</TaxSchedule><ExemptCode>2</ExemptCode></AvaCustomer>
+<AvaCustomer><Name>3TEST</Name><TaxSchedule>A3-STATE</TaxSchedule><ExemptCode>3</ExemptCode></AvaCustomer>
+<AvaCustomer><Name>4TEST</Name><TaxSchedule>A4-STATE</TaxSchedule><ExemptCode>4</ExemptCode></AvaCustomer>
+<AvaCustomer><Name>5TEST</Name><TaxSchedule>A5-STATE</TaxSchedule><ExemptCode>5</ExemptCode></AvaCustomer>
+<AvaCustomer><Name>6TEST</Name><TaxSchedule>A6-STATE</TaxSchedule><ExemptCode>6</ExemptCode></AvaCustomer>
+<AvaCustomer><Name>7TEST</Name><TaxSchedule>A7-STATE</TaxSchedule><ExemptCode>7</ExemptCode></AvaCustomer>
+<AvaCustomer><Name>8TEST</Name><TaxSchedule>A8-STATE</TaxSchedule><ExemptCode>8</ExemptCode></AvaCustomer>
+<AvaCustomer><Name>9TEST</Name><TaxSchedule>A9-STATE</TaxSchedule><ExemptCode>9</ExemptCode></AvaCustomer>
+<AvaCustomer><Name>10TEST</Name><TaxSchedule>A10-STATE</TaxSchedule><ExemptCode>10</ExemptCode></AvaCustomer>
+
+     
+    </Customers>
+  
+  
+  </AvaERPSettings>
+  <HelpLink>
+    <Links>
+      <Link>
+        <LinkType>0</LinkType>
+        <URL>https://help.avalara.com/004_AvaTax_Integrations/Sage_500/Install_and_Configure_Sage_Sales_Tax_for_Sage_500_ERP_Powered_by_Avalara_AvaTax/003_Install_and_Configure_Sage_Sales_Tax_for_Sage_500_ERP_Powered_by_Avalara_AvaTax</URL>
+      </Link>
+      <Link>
+        <LinkType>1</LinkType>
+        <URL>https://help.avalara.com/004_AvaTax_Integrations/Sage_500/001_Sage_500_User_Guide/Update_the_Tax_Schedule_in_Sage_Sales_Tax_for_Sage_500_ERP_Powered_by_Avalara_AvaTax</URL>
+      </Link>
+      <Link>
+        <LinkType>2</LinkType>
+        <URL>https://help.avalara.com/004_AvaTax_Integrations/Sage_500/001_Sage_500_User_Guide/Update_the_Tax_Schedule_in_Sage_Sales_Tax_for_Sage_500_ERP_Powered_by_Avalara_AvaTax</URL>
+      </Link>
+      <Link>
+        <LinkType>4</LinkType>
+        <URL>https://help.avalara.com/000_AvaTax_Calc/000AvaTaxCalc_User_Guide/040_Managing_Tax_Profiles/070_Items/040_How_to_Map_Items_to_Tax_Codes/010_Map_Items_to_Tax_Codes_Admin_Console</URL>
+      </Link>
+      <Link>
+        <LinkType>5</LinkType>
+        <URL>https://help.avalara.com/004_AvaTax_Integrations/Sage_500/001_Sage_500_User_Guide/003_Configure_AvaTax_for_Sage_500/AvaTax_Setup_Options_in_Sage_500</URL>
+      </Link>
+      <Link>
+        <LinkType>6</LinkType>
+        <URL>https://help.avalara.com/000_AvaTax_Calc/000AvaTaxCalc_User_Guide/040_Managing_Tax_Profiles/040_Nexus_Jurisdictions/020_Add_Jurisdictions</URL>
+      </Link>
+      <Link>
+        <LinkType>7</LinkType>
+        <URL>https://help.avalara.com/000_AvaTax_Calc/000AvaTaxCalc_User_Guide/001_AvaTax_Setup_Assistant/010Configure_Your_Company_Tax_Profile</URL>
+      </Link>
+      <Link>
+        <LinkType>3</LinkType>
+        <URL>http://help.avalara.com/004_AvaTax_Integrations/Sage_500/001_Sage_500_User_Guide/066_Map_Tax_Codes_to_Item_Codes</URL>
+      </Link>
+    </Links>
+  </HelpLink>
+</TPA>

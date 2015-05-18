@@ -1,0 +1,149 @@
+D:\CP_Tax_Profile_Assistant-development\CP_Tax_Profile_Assistant-development\TaxProfileAssistant\Code\TaxProfileAssistant\TaxProfileAssistantTests\bin\Debug\TaxProfileAssistantTests.dll.config
+D:\CP_Tax_Profile_Assistant-development\CP_Tax_Profile_Assistant-development\TaxProfileAssistant\Code\TaxProfileAssistant\TaxProfileAssistantTests\bin\Debug\TaxProfileAssistantTests.dll
+D:\CP_Tax_Profile_Assistant-development\CP_Tax_Profile_Assistant-development\TaxProfileAssistant\Code\TaxProfileAssistant\TaxProfileAssistantTests\bin\Debug\TaxProfileAssistantTests.pdb
+D:\CP_Tax_Profile_Assistant-development\CP_Tax_Profile_Assistant-development\TaxProfileAssistant\Code\TaxProfileAssistant\TaxProfileAssistantTests\bin\Debug\EntityFramework.dll
+D:\CP_Tax_Profile_Assistant-development\CP_Tax_Profile_Assistant-development\TaxProfileAssistant\Code\TaxProfileAssistant\TaxProfileAssistantTests\bin\Debug\EntityFramework.SqlServer.dll
+D:\CP_Tax_Profile_Assistant-development\CP_Tax_Profile_Assistant-development\TaxProfileAssistant\Code\TaxProfileAssistant\TaxProfileAssistantTests\bin\Debug\TaxProfileAssistant.dll
+D:\CP_Tax_Profile_Assistant-development\CP_Tax_Profile_Assistant-development\TaxProfileAssistant\Code\TaxProfileAssistant\TaxProfileAssistantTests\bin\Debug\Avalara.AvaTax.Services.Proxies.dll
+D:\CP_Tax_Profile_Assistant-development\CP_Tax_Profile_Assistant-development\TaxProfileAssistant\Code\TaxProfileAssistant\TaxProfileAssistantTests\bin\Debug\System.Web.Optimization.dll
+D:\CP_Tax_Profile_Assistant-development\CP_Tax_Profile_Assistant-development\TaxProfileAssistant\Code\TaxProfileAssistant\TaxProfileAssistantTests\bin\Debug\log4net.dll
+D:\CP_Tax_Profile_Assistant-development\CP_Tax_Profile_Assistant-development\TaxProfileAssistant\Code\TaxProfileAssistant\TaxProfileAssistantTests\bin\Debug\Microsoft.Web.Services3.dll
+D:\CP_Tax_Profile_Assistant-development\CP_Tax_Profile_Assistant-development\TaxProfileAssistant\Code\TaxProfileAssistant\TaxProfileAssistantTests\bin\Debug\Avalara.AvaTax.Adapter.dll
+D:\CP_Tax_Profile_Assistant-development\CP_Tax_Profile_Assistant-development\TaxProfileAssistant\Code\TaxProfileAssistant\TaxProfileAssistantTests\bin\Debug\WebGrease.dll
+D:\CP_Tax_Profile_Assistant-development\CP_Tax_Profile_Assistant-development\TaxProfileAssistant\Code\TaxProfileAssistant\TaxProfileAssistantTests\bin\Debug\Newtonsoft.Json.dll
+D:\CP_Tax_Profile_Assistant-development\CP_Tax_Profile_Assistant-development\TaxProfileAssistant\Code\TaxProfileAssistant\TaxProfileAssistantTests\bin\Debug\Antlr3.Runtime.dll
+D:\CP_Tax_Profile_Assistant-development\CP_Tax_Profile_Assistant-development\TaxProfileAssistant\Code\TaxProfileAssistant\TaxProfileAssistantTests\bin\Debug\TaxProfileAssistant.pdb
+D:\CP_Tax_Profile_Assistant-development\CP_Tax_Profile_Assistant-development\TaxProfileAssistant\Code\TaxProfileAssistant\TaxProfileAssistantTests\bin\Debug\EntityFramework.xml
+D:\CP_Tax_Profile_Assistant-development\CP_Tax_Profile_Assistant-development\TaxProfileAssistant\Code\TaxProfileAssistant\TaxProfileAssistantTests\bin\Debug\EntityFramework.SqlServer.xml
+D:\CP_Tax_Profile_Assistant-development\CP_Tax_Profile_Assistant-development\TaxProfileAssistant\Code\TaxProfileAssistant\TaxProfileAssistantTests\bin\Debug\log4net.xml
+D:\CP_Tax_Profile_Assistant-development\CP_Tax_Profile_Assistant-development\TaxProfileAssistant\Code\TaxProfileAssistant\TaxProfileAssistantTests\obj\Debug\TaxProfileAssistantTests.csprojResolveAssemblyReference.cache
+D:\CP_Tax_Profile_Assistant-development\CP_Tax_Profile_Assistant-development\TaxProfileAssistant\Code\TaxProfileAssistant\TaxProfileAssistantTests\obj\Debug\TaxProfileAssistantTests.dll
+D:\CP_Tax_Profile_Assistant-development\CP_Tax_Profile_Assistant-development\TaxProfileAssistant\Code\TaxProfileAssistant\TaxProfileAssistantTests\obj\Debug\TaxProfileAssistantTests.pdb
+D:\Old TPA\CP_Tax_Profile_Assistant-development\CP_Tax_Profile_Assistant-development\TaxProfileAssistant\Code\TaxProfileAssistant\TaxProfileAssistantTests\bin\Debug\TaxProfileAssistantTests.dll.config
+D:\Old TPA\CP_Tax_Profile_Assistant-development\CP_Tax_Profile_Assistant-development\TaxProfileAssistant\Code\TaxProfileAssistant\TaxProfileAssistantTests\bin\Debug\TaxProfileAssistantTests.dll
+D:\Old TPA\CP_Tax_Profile_Assistant-development\CP_Tax_Profile_Assistant-development\TaxProfileAssistant\Code\TaxProfileAssistant\TaxProfileAssistantTests\bin\Debug\TaxProfileAssistantTests.pdb
+D:\Old TPA\CP_Tax_Profile_Assistant-development\CP_Tax_Profile_Assistant-development\TaxProfileAssistant\Code\TaxProfileAssistant\TaxProfileAssistantTests\bin\Debug\EntityFramework.dll
+D:\Old TPA\CP_Tax_Profile_Assistant-development\CP_Tax_Profile_Assistant-development\TaxProfileAssistant\Code\TaxProfileAssistant\TaxProfileAssistantTests\bin\Debug\EntityFramework.SqlServer.dll
+D:\Old TPA\CP_Tax_Profile_Assistant-development\CP_Tax_Profile_Assistant-development\TaxProfileAssistant\Code\TaxProfileAssistant\TaxProfileAssistantTests\bin\Debug\TaxProfileAssistant.dll
+D:\Old TPA\CP_Tax_Profile_Assistant-development\CP_Tax_Profile_Assistant-development\TaxProfileAssistant\Code\TaxProfileAssistant\TaxProfileAssistantTests\bin\Debug\Avalara.AvaTax.Services.Proxies.dll
+D:\Old TPA\CP_Tax_Profile_Assistant-development\CP_Tax_Profile_Assistant-development\TaxProfileAssistant\Code\TaxProfileAssistant\TaxProfileAssistantTests\bin\Debug\System.Web.Optimization.dll
+D:\Old TPA\CP_Tax_Profile_Assistant-development\CP_Tax_Profile_Assistant-development\TaxProfileAssistant\Code\TaxProfileAssistant\TaxProfileAssistantTests\bin\Debug\log4net.dll
+D:\Old TPA\CP_Tax_Profile_Assistant-development\CP_Tax_Profile_Assistant-development\TaxProfileAssistant\Code\TaxProfileAssistant\TaxProfileAssistantTests\bin\Debug\Microsoft.Web.Services3.dll
+D:\Old TPA\CP_Tax_Profile_Assistant-development\CP_Tax_Profile_Assistant-development\TaxProfileAssistant\Code\TaxProfileAssistant\TaxProfileAssistantTests\bin\Debug\Avalara.AvaTax.Adapter.dll
+D:\Old TPA\CP_Tax_Profile_Assistant-development\CP_Tax_Profile_Assistant-development\TaxProfileAssistant\Code\TaxProfileAssistant\TaxProfileAssistantTests\bin\Debug\WebGrease.dll
+D:\Old TPA\CP_Tax_Profile_Assistant-development\CP_Tax_Profile_Assistant-development\TaxProfileAssistant\Code\TaxProfileAssistant\TaxProfileAssistantTests\bin\Debug\Newtonsoft.Json.dll
+D:\Old TPA\CP_Tax_Profile_Assistant-development\CP_Tax_Profile_Assistant-development\TaxProfileAssistant\Code\TaxProfileAssistant\TaxProfileAssistantTests\bin\Debug\Antlr3.Runtime.dll
+D:\Old TPA\CP_Tax_Profile_Assistant-development\CP_Tax_Profile_Assistant-development\TaxProfileAssistant\Code\TaxProfileAssistant\TaxProfileAssistantTests\bin\Debug\TaxProfileAssistant.pdb
+D:\Old TPA\CP_Tax_Profile_Assistant-development\CP_Tax_Profile_Assistant-development\TaxProfileAssistant\Code\TaxProfileAssistant\TaxProfileAssistantTests\bin\Debug\EntityFramework.xml
+D:\Old TPA\CP_Tax_Profile_Assistant-development\CP_Tax_Profile_Assistant-development\TaxProfileAssistant\Code\TaxProfileAssistant\TaxProfileAssistantTests\bin\Debug\EntityFramework.SqlServer.xml
+D:\Old TPA\CP_Tax_Profile_Assistant-development\CP_Tax_Profile_Assistant-development\TaxProfileAssistant\Code\TaxProfileAssistant\TaxProfileAssistantTests\bin\Debug\log4net.xml
+D:\Old TPA\CP_Tax_Profile_Assistant-development\CP_Tax_Profile_Assistant-development\TaxProfileAssistant\Code\TaxProfileAssistant\TaxProfileAssistantTests\obj\Debug\TaxProfileAssistantTests.csprojResolveAssemblyReference.cache
+D:\Old TPA\CP_Tax_Profile_Assistant-development\CP_Tax_Profile_Assistant-development\TaxProfileAssistant\Code\TaxProfileAssistant\TaxProfileAssistantTests\obj\Debug\TaxProfileAssistantTests.dll
+D:\Old TPA\CP_Tax_Profile_Assistant-development\CP_Tax_Profile_Assistant-development\TaxProfileAssistant\Code\TaxProfileAssistant\TaxProfileAssistantTests\obj\Debug\TaxProfileAssistantTests.pdb
+D:\Old TPA\CP_Tax_Profile_Assistant-development\CP_Tax_Profile_Assistant-development\TaxProfileAssistant\Code\TaxProfileAssistant\TaxProfileAssistantTests\bin\Debug\Newtonsoft.Json.xml
+D:\TaxProfileAssistantTests\bin\Debug\TaxProfileAssistantTests.dll.config
+D:\TaxProfileAssistantTests\bin\Debug\TaxProfileAssistantTests.dll
+D:\TaxProfileAssistantTests\bin\Debug\TaxProfileAssistantTests.pdb
+D:\TaxProfileAssistantTests\bin\Debug\System.Web.Optimization.dll
+D:\TaxProfileAssistantTests\bin\Debug\log4net.dll
+D:\TaxProfileAssistantTests\bin\Debug\WebGrease.dll
+D:\TaxProfileAssistantTests\bin\Debug\Newtonsoft.Json.dll
+D:\TaxProfileAssistantTests\bin\Debug\Antlr3.Runtime.dll
+D:\TaxProfileAssistantTests\bin\Debug\EntityFramework.xml
+D:\TaxProfileAssistantTests\bin\Debug\EntityFramework.SqlServer.xml
+D:\TaxProfileAssistantTests\bin\Debug\TaxProfileAssistant.pdb
+D:\TaxProfileAssistantTests\bin\Debug\log4net.xml
+D:\TaxProfileAssistantTests\obj\Debug\TaxProfileAssistantTests.csprojResolveAssemblyReference.cache
+D:\TaxProfileAssistantTests\obj\Debug\TaxProfileAssistantTests.dll
+D:\TaxProfileAssistantTests\obj\Debug\TaxProfileAssistantTests.pdb
+D:\TaxProfileAssistantTests\bin\Debug\Moq.dll
+D:\TaxProfileAssistantTests\bin\Debug\Moq.xml
+D:\other\TaxProfileAssistantTests\bin\Debug\TaxProfileAssistantTests.dll.config
+D:\other\TaxProfileAssistantTests\bin\Debug\TaxProfileAssistantTests.dll
+D:\other\TaxProfileAssistantTests\bin\Debug\TaxProfileAssistantTests.pdb
+D:\other\TaxProfileAssistantTests\bin\Debug\Avalara.AvaTax.Adapter.dll
+D:\other\TaxProfileAssistantTests\bin\Debug\Avalara.AvaTax.Services.Proxies.dll
+D:\other\TaxProfileAssistantTests\bin\Debug\Microsoft.Web.Services3.dll
+D:\other\TaxProfileAssistantTests\bin\Debug\Moq.dll
+D:\other\TaxProfileAssistantTests\bin\Debug\System.Web.Optimization.dll
+D:\other\TaxProfileAssistantTests\bin\Debug\log4net.dll
+D:\other\TaxProfileAssistantTests\bin\Debug\WebGrease.dll
+D:\other\TaxProfileAssistantTests\bin\Debug\Newtonsoft.Json.dll
+D:\other\TaxProfileAssistantTests\bin\Debug\Antlr3.Runtime.dll
+D:\other\TaxProfileAssistantTests\bin\Debug\EntityFramework.xml
+D:\other\TaxProfileAssistantTests\bin\Debug\EntityFramework.SqlServer.xml
+D:\other\TaxProfileAssistantTests\bin\Debug\Moq.xml
+D:\other\TaxProfileAssistantTests\bin\Debug\TaxProfileAssistant.pdb
+D:\other\TaxProfileAssistantTests\bin\Debug\log4net.xml
+D:\other\TaxProfileAssistantTests\obj\Debug\TaxProfileAssistantTests.csprojResolveAssemblyReference.cache
+D:\other\TaxProfileAssistantTests\obj\Debug\TaxProfileAssistantTests.dll
+D:\other\TaxProfileAssistantTests\obj\Debug\TaxProfileAssistantTests.pdb
+D:\other\TaxProfileAssistantTests\bin\Debug\TaxProfileAssistant.dll
+D:\other\TaxProfileAssistantTests\bin\Debug\Newtonsoft.Json.xml
+D:\other\TaxProfileAssistantTests - Copy\obj\Debug\TaxProfileAssistantTests.csprojResolveAssemblyReference.cache
+D:\other\TaxProfileAssistantTests - Copy\obj\Debug\TaxProfileAssistantTests.dll
+D:\other\TaxProfileAssistantTests - Copy\obj\Debug\TaxProfileAssistantTests.pdb
+D:\other\TaxProfileAssistantTests - Copy\bin\Debug\TaxProfileAssistantTests.dll.config
+D:\other\TaxProfileAssistantTests - Copy\bin\Debug\TaxProfileAssistantTests.dll
+D:\other\TaxProfileAssistantTests - Copy\bin\Debug\TaxProfileAssistantTests.pdb
+D:\other\TaxProfileAssistantTests - Copy\bin\Debug\Avalara.AvaTax.Adapter.dll
+D:\other\TaxProfileAssistantTests - Copy\bin\Debug\Avalara.AvaTax.Services.Proxies.dll
+D:\other\TaxProfileAssistantTests - Copy\bin\Debug\Microsoft.Web.Services3.dll
+D:\other\TaxProfileAssistantTests - Copy\bin\Debug\Moq.dll
+D:\other\TaxProfileAssistantTests - Copy\bin\Debug\TaxProfileAssistant.dll
+D:\other\TaxProfileAssistantTests - Copy\bin\Debug\System.Web.Optimization.dll
+D:\other\TaxProfileAssistantTests - Copy\bin\Debug\log4net.dll
+D:\other\TaxProfileAssistantTests - Copy\bin\Debug\Newtonsoft.Json.dll
+D:\other\TaxProfileAssistantTests - Copy\bin\Debug\WebGrease.dll
+D:\other\TaxProfileAssistantTests - Copy\bin\Debug\Antlr3.Runtime.dll
+D:\other\TaxProfileAssistantTests - Copy\bin\Debug\EntityFramework.xml
+D:\other\TaxProfileAssistantTests - Copy\bin\Debug\EntityFramework.SqlServer.xml
+D:\other\TaxProfileAssistantTests - Copy\bin\Debug\Moq.xml
+D:\other\TaxProfileAssistantTests - Copy\bin\Debug\TaxProfileAssistant.pdb
+D:\other\TaxProfileAssistantTests - Copy\bin\Debug\log4net.xml
+D:\other\TaxProfileAssistantTests - Copy\bin\Debug\Newtonsoft.Json.xml
+D:\New TPA Release\TaxProfileAssistantTests\bin\Debug\TaxProfileAssistantTests.dll.config
+D:\New TPA Release\TaxProfileAssistantTests\bin\Debug\TaxProfileAssistantTests.dll
+D:\New TPA Release\TaxProfileAssistantTests\bin\Debug\TaxProfileAssistantTests.pdb
+D:\New TPA Release\TaxProfileAssistantTests\bin\Debug\Avalara.AvaTax.Adapter.dll
+D:\New TPA Release\TaxProfileAssistantTests\bin\Debug\Avalara.AvaTax.Services.Proxies.dll
+D:\New TPA Release\TaxProfileAssistantTests\bin\Debug\Microsoft.Web.Services3.dll
+D:\New TPA Release\TaxProfileAssistantTests\bin\Debug\Moq.dll
+D:\New TPA Release\TaxProfileAssistantTests\bin\Debug\TaxProfileAssistant.dll
+D:\New TPA Release\TaxProfileAssistantTests\bin\Debug\System.Web.Optimization.dll
+D:\New TPA Release\TaxProfileAssistantTests\bin\Debug\log4net.dll
+D:\New TPA Release\TaxProfileAssistantTests\bin\Debug\Newtonsoft.Json.dll
+D:\New TPA Release\TaxProfileAssistantTests\bin\Debug\WebGrease.dll
+D:\New TPA Release\TaxProfileAssistantTests\bin\Debug\Antlr3.Runtime.dll
+D:\New TPA Release\TaxProfileAssistantTests\bin\Debug\EntityFramework.xml
+D:\New TPA Release\TaxProfileAssistantTests\bin\Debug\EntityFramework.SqlServer.xml
+D:\New TPA Release\TaxProfileAssistantTests\bin\Debug\Moq.xml
+D:\New TPA Release\TaxProfileAssistantTests\bin\Debug\TaxProfileAssistant.pdb
+D:\New TPA Release\TaxProfileAssistantTests\bin\Debug\log4net.xml
+D:\New TPA Release\TaxProfileAssistantTests\bin\Debug\Newtonsoft.Json.xml
+D:\New TPA Release\TaxProfileAssistantTests\obj\Debug\TaxProfileAssistantTests.csprojResolveAssemblyReference.cache
+D:\New TPA Release\TaxProfileAssistantTests\obj\Debug\TaxProfileAssistantTests.dll
+D:\New TPA Release\TaxProfileAssistantTests\obj\Debug\TaxProfileAssistantTests.pdb
+D:\Nunit TPA\TaxProfileAssistantTests\obj\Debug\TaxProfileAssistantTests.csprojResolveAssemblyReference.cache
+D:\Nunit TPA\TaxProfileAssistantTests\obj\Debug\TaxProfileAssistantTests.dll
+D:\Nunit TPA\TaxProfileAssistantTests\obj\Debug\TaxProfileAssistantTests.pdb
+D:\Nunit TPA\TaxProfileAssistantTests\bin\Debug\TaxProfileAssistantTests.dll.config
+D:\Nunit TPA\TaxProfileAssistantTests\bin\Debug\TaxProfileAssistantTests.dll
+D:\Nunit TPA\TaxProfileAssistantTests\bin\Debug\TaxProfileAssistantTests.pdb
+D:\Nunit TPA\TaxProfileAssistantTests\bin\Debug\Avalara.AvaTax.Adapter.dll
+D:\Nunit TPA\TaxProfileAssistantTests\bin\Debug\Avalara.AvaTax.Services.Proxies.dll
+D:\Nunit TPA\TaxProfileAssistantTests\bin\Debug\Microsoft.Web.Services3.dll
+D:\Nunit TPA\TaxProfileAssistantTests\bin\Debug\Moq.dll
+D:\Nunit TPA\TaxProfileAssistantTests\bin\Debug\nunit.framework.dll
+D:\Nunit TPA\TaxProfileAssistantTests\bin\Debug\System.Web.Optimization.dll
+D:\Nunit TPA\TaxProfileAssistantTests\bin\Debug\log4net.dll
+D:\Nunit TPA\TaxProfileAssistantTests\bin\Debug\Newtonsoft.Json.dll
+D:\Nunit TPA\TaxProfileAssistantTests\bin\Debug\WebGrease.dll
+D:\Nunit TPA\TaxProfileAssistantTests\bin\Debug\Antlr3.Runtime.dll
+D:\Nunit TPA\TaxProfileAssistantTests\bin\Debug\EntityFramework.xml
+D:\Nunit TPA\TaxProfileAssistantTests\bin\Debug\EntityFramework.SqlServer.xml
+D:\Nunit TPA\TaxProfileAssistantTests\bin\Debug\Moq.xml
+D:\Nunit TPA\TaxProfileAssistantTests\bin\Debug\nunit.framework.xml
+D:\Nunit TPA\TaxProfileAssistantTests\bin\Debug\TaxProfileAssistant.pdb
+D:\Nunit TPA\TaxProfileAssistantTests\bin\Debug\log4net.xml
+D:\Nunit TPA\TaxProfileAssistantTests\bin\Debug\Newtonsoft.Json.xml

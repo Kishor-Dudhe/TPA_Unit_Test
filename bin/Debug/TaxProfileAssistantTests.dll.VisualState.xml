@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1091]TaxProfileAssistantTest.Controllers</TopNode>
+  <SelectedNode>[0-1085]TaxProfileAssistantTest.Utils.Tests.AvaTaxProfileAssistantHelperTests.GetValidationErrorMessagesTestForValidModel</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1089]D:\Nunit TPA\TaxProfileAssistantTest\bin\Debug\TaxProfileAssistantTests.dll" Expanded="true" />
+    <Node UniqueName="[0-1095]TaxProfileAssistant" Expanded="true" />
+    <Node UniqueName="[0-1096]TaxProfileAssistant.Utils" Expanded="true" />
+    <Node UniqueName="[0-1097]TaxProfileAssistant.Utils.Tests" Expanded="true" />
+    <Node UniqueName="[0-1090]TaxProfileAssistantTest" Expanded="true" />
+    <Node UniqueName="[0-1091]TaxProfileAssistantTest.Controllers" Expanded="true" />
+    <Node UniqueName="[0-1092]TaxProfileAssistantTest.Controllers.Tests" Expanded="true" />
+    <Node UniqueName="[0-1093]TaxProfileAssistantTest.Utils" Expanded="true" />
+    <Node UniqueName="[0-1094]TaxProfileAssistantTest.Utils.Tests" Expanded="true" />
+    <Node UniqueName="[0-1061]TaxProfileAssistantTest.Utils.Tests.AvaTaxProfileAssistantHelperTests" Expanded="true" />
+  </Nodes>
+</VisualState>
