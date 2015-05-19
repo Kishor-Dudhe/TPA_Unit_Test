@@ -65,3 +65,26 @@ C:\Program Files (x86)\Jenkins\jobs\Unit Test On TPA\workspace\obj\Debug\TaxProf
 C:\Program Files (x86)\Jenkins\jobs\Unit Test On TPA\workspace\obj\Debug\TaxProfileAssistantTests.dll
 C:\Program Files (x86)\Jenkins\jobs\Unit Test On TPA\workspace\obj\Debug\TaxProfileAssistantTests.pdb
 C:\Program Files (x86)\Jenkins\jobs\Unit Test On TPA\workspace\bin\Debug\TaxProfileAssistant.dll
+D:\Nunit TPA\TPA_Unit_Test\bin\Debug\TaxProfileAssistantTests.dll.config
+D:\Nunit TPA\TPA_Unit_Test\bin\Debug\TaxProfileAssistantTests.dll
+D:\Nunit TPA\TPA_Unit_Test\bin\Debug\TaxProfileAssistantTests.pdb
+D:\Nunit TPA\TPA_Unit_Test\bin\Debug\Avalara.AvaTax.Adapter.dll
+D:\Nunit TPA\TPA_Unit_Test\bin\Debug\Avalara.AvaTax.Services.Proxies.dll
+D:\Nunit TPA\TPA_Unit_Test\bin\Debug\Microsoft.Web.Services3.dll
+D:\Nunit TPA\TPA_Unit_Test\bin\Debug\Moq.dll
+D:\Nunit TPA\TPA_Unit_Test\bin\Debug\nunit.framework.dll
+D:\Nunit TPA\TPA_Unit_Test\bin\Debug\System.Web.Optimization.dll
+D:\Nunit TPA\TPA_Unit_Test\bin\Debug\log4net.dll
+D:\Nunit TPA\TPA_Unit_Test\bin\Debug\Newtonsoft.Json.dll
+D:\Nunit TPA\TPA_Unit_Test\bin\Debug\WebGrease.dll
+D:\Nunit TPA\TPA_Unit_Test\bin\Debug\Antlr3.Runtime.dll
+D:\Nunit TPA\TPA_Unit_Test\bin\Debug\EntityFramework.xml
+D:\Nunit TPA\TPA_Unit_Test\bin\Debug\EntityFramework.SqlServer.xml
+D:\Nunit TPA\TPA_Unit_Test\bin\Debug\Moq.xml
+D:\Nunit TPA\TPA_Unit_Test\bin\Debug\nunit.framework.xml
+D:\Nunit TPA\TPA_Unit_Test\bin\Debug\TaxProfileAssistant.pdb
+D:\Nunit TPA\TPA_Unit_Test\bin\Debug\log4net.xml
+D:\Nunit TPA\TPA_Unit_Test\bin\Debug\Newtonsoft.Json.xml
+D:\Nunit TPA\TPA_Unit_Test\obj\Debug\TaxProfileAssistantTest.csprojResolveAssemblyReference.cache
+D:\Nunit TPA\TPA_Unit_Test\obj\Debug\TaxProfileAssistantTests.dll
+D:\Nunit TPA\TPA_Unit_Test\obj\Debug\TaxProfileAssistantTests.pdb
